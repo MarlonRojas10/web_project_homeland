@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  margin: 5% auto auto auto;
+  justify-content: center;
+}
+.footer__copyright {
+  align-items: center;
+  max-width: 191px;
+  max-height: 16px;
+  color: #fff;
+  font-family: "Inter";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+}

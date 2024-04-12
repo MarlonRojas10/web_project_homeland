@@ -1,0 +1,39 @@
+.introduction {
+  display: flex;
+  flex-direction: column;
+  max-width: 1017px;
+  margin: auto;
+}
+.introduction__subtitle {
+  color: #fff;
+  font-family: "Inter";
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px;
+  text-align: left;
+  align-items: center;
+}
+.introduction__text {
+  color: #fff;
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: left;
+}
+.introduction__author {
+  color: #fff;
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: right;
+}
+.introduction__subtext {
+  color: #fff;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26.08px;
+  text-align: left;
+}

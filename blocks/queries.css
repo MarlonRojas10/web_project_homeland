@@ -1,0 +1,32 @@
+@media screen and (max-width: 768px) {
+  .gallery {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto auto;
+  }
+  .places {
+    max-width: 720px;
+  }
+  .cover {
+    width: 768px;
+    height: 746px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .header {
+    display: block;
+  }
+  .gallery {
+    display: block;
+  }
+  .places {
+    max-width: 320px;
+  }
+  .place {
+    display: block;
+  }
+  .cover {
+    margin-top: 2%;
+    width: 321.26px;
+    height: 254px;
+  }
+}

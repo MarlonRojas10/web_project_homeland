@@ -67,7 +67,7 @@
 .place__button:hover {
   background-color: #0063d2;
 }
-.place__button__text {
+.place__button-text {
   font-family: "Inter";
   font-size: 18px;
   font-weight: 600;
